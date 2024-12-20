@@ -12,4 +12,5 @@ elisahgt : Elisa Hugonnet
 
 ## Fonctionalités
 Extraitre des données de la plateforme Vinted, par exemple : articles, prix, catégories, ect
+
 offrir des endpoints bien definis
