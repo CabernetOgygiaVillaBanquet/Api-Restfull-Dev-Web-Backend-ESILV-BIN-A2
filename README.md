@@ -1,8 +1,8 @@
-# Nom Du Projet
+# Scrap Vinted
 
 ## Description
 
-Je décris mon projet
+Une API Restfull en JS qui scraple les donnees de Vinted, qui trie les données les produits les plus interessants rapport/qualite prix. 
 
 ## Membres
 
