@@ -11,6 +11,5 @@ leolaro : Léo Laroche
 elisahgt : Elisa Hugonnet
 
 ## Fonctionalités
-- starter: 
-- Sécurité: 
-- Tests :
+Extraitre des données de la plateforme Vinted, par exemple : articles, prix, catégories, ect
+offrir des endpoints bien definis
