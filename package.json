@@ -1,0 +1,12 @@
+{
+  "name": "api-restfull-dev-web-backend-esilv-bin-a2",
+  "version": "1.0.0",
+  "description": "Une API Restfull en JS qui scraple les donnees de Vinted, qui trie les données les produits les plus interessants rapport/qualite prix.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
