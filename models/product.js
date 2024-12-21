@@ -1,5 +1,5 @@
-const { DataTypes } = require('sequelize');
-const sequelize = require('../config/database');
+ionconst { DataTypes } = require('sequelize');
+const sequelize = require('../config/connection');
 
 const Product = sequelize.define('Product', {
   name: {
